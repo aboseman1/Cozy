@@ -76,7 +76,7 @@ nav span {
 
 }
 .mission {
-  background-image: url("file://C:/projects/Cozy/images/img-mission-background.jpg");
+  background-image: url("../images/img-mission-background.jpg");
   height: 700px;
   width: 1200px;
  }
@@ -123,7 +123,7 @@ nav span {
 /* This starts the locations section of the page */
 
 .locations {
-  background-image: url("file://C:/projects/Cozy/images/img-locations-background.jpg");
+  background-image: url("../images/img-locations-background.jpg");
   background-size: 1200px 700px;
   height: 500px;
   width: 1200px;
