@@ -2,6 +2,7 @@
 
 body {
   background-color: black;
+  font-family: Helvetica;
   color: seashell;
 }
 
@@ -167,3 +168,13 @@ nav span {
    background-color: black;
    width: 300px;
  }
+
+.contact {
+  height: 200px;
+  width: 100%;
+  text-align: center;
+}
+
+footer {
+  padding-left: 20px;
+}
