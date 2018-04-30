@@ -29,6 +29,8 @@ h4 {
   text-align: center;
 }
 
+/*Header STyles*/
+
 header {
   display: flex;
   position: fixed;
@@ -74,8 +76,10 @@ nav span {
   flex-direction: column;
   padding-top: 50px;
   align-items: center;
-
 }
+
+/* Mission Section Styling*/
+
 .mission {
   background-image: url("../images/img-mission-background.jpg");
   height: 700px;
@@ -87,7 +91,7 @@ nav span {
   text-align: center;
 }
 
-/* This is where the Tea of the Month section starts */
+/* Tea of the Month Styles*/
 
 .middle {
   display: flex;
@@ -121,7 +125,7 @@ nav span {
   width: 300px;
 }
 
-/* This starts the locations section of the page */
+/* Locations Section Styles */
 
 .locations {
   background-image: url("../images/img-locations-background.jpg");
@@ -129,8 +133,6 @@ nav span {
   height: 500px;
   width: 1200px;
  }
-
-
 
  .locations-box {
    display: flex;
@@ -169,11 +171,15 @@ nav span {
    width: 300px;
  }
 
+/* Contact Section Styles */
+
 .contact {
   height: 200px;
   width: 100%;
   text-align: center;
 }
+
+/* Footer Styles */
 
 footer {
   padding-left: 20px;
