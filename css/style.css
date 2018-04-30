@@ -9,6 +9,11 @@ h2 {
   font-size: 32px;
 }
 
+h3 {
+  font-weight: bold;
+  font-size: 28px;
+}
+
 h4 {
   font-size: 22px;
 }
@@ -114,3 +119,51 @@ nav span {
   height: 200px;
   width: 300px;
 }
+
+/* This starts the locations section of the page */
+
+.locations {
+  background-image: url("file://C:/projects/Cozy/images/img-locations-background.jpg");
+  background-size: 1200px 700px;
+  height: 500px;
+  width: 1200px;
+ }
+
+
+
+ .locations-box {
+   display: flex;
+   display: flex;
+   flex-direction: row;
+   align-items: flex-start;
+   justify-content: space-between;
+   margin-left: 100px;
+   margin-right: 100px;
+   margin-bottom: 100px;
+ }
+
+ .locations h2 {
+   margin-top: 50px;
+ }
+
+.box h4 {
+  opacity: 1;
+}
+
+.box h3 {
+  opacity: 1;
+}
+ .box1 {
+   background-color: black;
+   width: 300px;
+ }
+
+ .box2 {
+   background-color: black;
+   width: 300px;
+ }
+
+ .box3 {
+   background-color: black;
+   width: 300px;
+ }
